@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+Main-Class: com.javaguides.springboot.SpringbootFirstAppApplication
+Class-Path: 3rd/logback-classic-1.5.6.jar 3rd/logback-core-1.5.6.jar 3rd
+ /jackson-annotations-2.17.1.jar 3rd/jackson-core-2.17.1.jar 3rd/jackson
+ -databind-2.17.1.jar 3rd/jackson-datatype-jdk8-2.17.1.jar 3rd/jackson-d
+ atatype-jsr310-2.17.1.jar 3rd/jackson-module-parameter-names-2.17.1.jar
+  3rd/json-path-2.9.0.jar 3rd/android-json-0.0.20131108.vaadin1.jar 3rd/
+ micrometer-commons-1.13.0.jar 3rd/micrometer-core-1.13.0.jar 3rd/microm
+ eter-jakarta9-1.13.0.jar 3rd/micrometer-observation-1.13.0.jar 3rd/jaka
+ rta.activation-api-2.1.3.jar 3rd/jakarta.annotation-api-2.1.1.jar 3rd/j
+ akarta.xml.bind-api-4.0.2.jar 3rd/byte-buddy-1.14.16.jar 3rd/byte-buddy
+ -agent-1.14.16.jar 3rd/accessors-smart-2.5.1.jar 3rd/json-smart-2.5.1.j
+ ar 3rd/log4j-api-2.23.1.jar 3rd/log4j-to-slf4j-2.23.1.jar 3rd/tomcat-em
+ bed-core-10.1.24.jar 3rd/tomcat-embed-el-10.1.24.jar 3rd/tomcat-embed-w
+ ebsocket-10.1.24.jar 3rd/apiguardian-api-1.1.2.jar 3rd/assertj-core-3.2
+ 5.3.jar 3rd/awaitility-4.2.1.jar 3rd/hamcrest-2.2.jar 3rd/HdrHistogram-
+ 2.2.1.jar 3rd/junit-jupiter-5.10.2.jar 3rd/junit-jupiter-api-5.10.2.jar
+  3rd/junit-jupiter-engine-5.10.2.jar 3rd/junit-jupiter-params-5.10.2.ja
+ r 3rd/junit-platform-commons-1.10.2.jar 3rd/junit-platform-engine-1.10.
+ 2.jar 3rd/LatencyUtils-2.0.3.jar 3rd/mockito-core-5.11.0.jar 3rd/mockit
+ o-junit-jupiter-5.11.0.jar 3rd/objenesis-3.3.jar 3rd/opentest4j-1.3.0.j
+ ar 3rd/asm-9.6.jar 3rd/lombok-1.18.32.jar 3rd/jsonassert-1.5.1.jar 3rd/
+ jul-to-slf4j-2.0.13.jar 3rd/slf4j-api-2.0.13.jar 3rd/spring-boot-3.3.0.
+ jar 3rd/spring-boot-actuator-3.3.0.jar 3rd/spring-boot-actuator-autocon
+ figure-3.3.0.jar 3rd/spring-boot-autoconfigure-3.3.0.jar 3rd/spring-boo
+ t-starter-3.3.0.jar 3rd/spring-boot-starter-actuator-3.3.0.jar 3rd/spri
+ ng-boot-starter-json-3.3.0.jar 3rd/spring-boot-starter-logging-3.3.0.ja
+ r 3rd/spring-boot-starter-test-3.3.0.jar 3rd/spring-boot-starter-tomcat
+ -3.3.0.jar 3rd/spring-boot-starter-web-3.3.0.jar 3rd/spring-boot-test-3
+ .3.0.jar 3rd/spring-boot-test-autoconfigure-3.3.0.jar 3rd/spring-aop-6.
+ 1.8.jar 3rd/spring-beans-6.1.8.jar 3rd/spring-context-6.1.8.jar 3rd/spr
+ ing-core-6.1.8.jar 3rd/spring-expression-6.1.8.jar 3rd/spring-jcl-6.1.8
+ .jar 3rd/spring-test-6.1.8.jar 3rd/spring-web-6.1.8.jar 3rd/spring-webm
+ vc-6.1.8.jar 3rd/xmlunit-core-2.9.1.jar 3rd/snakeyaml-2.2.jar
+
