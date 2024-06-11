@@ -19,7 +19,7 @@
         <Logger name="books-logger" level="INFO" additivity="false">
             <AppenderRef ref="BooksFile"/>
         </Logger>
-        <Root level="error">
+        <Root level="info">
             <AppenderRef ref="Console"/>
         </Root>
     </Loggers>
